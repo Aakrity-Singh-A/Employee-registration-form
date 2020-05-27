@@ -1,0 +1,5 @@
+body{
+  border: 10px solid #FFCCCC;
+  background: linear-gradient(35deg, #CCFFFF,#FFCCCC);
+  content: center;
+}
